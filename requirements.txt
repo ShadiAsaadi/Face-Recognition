@@ -1,0 +1,9 @@
+jupyterlab
+DeepFace
+numpy
+os
+cv2
+time
+shutil
+pandas
+python
